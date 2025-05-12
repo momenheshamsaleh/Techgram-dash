@@ -39,4 +39,4 @@ The backend API is already hosted on Heroku, so no additional setup is required.
 You can find the API repo [here](https://github.com/paolo-licata/social-API)
 
 ## Author
-Paolo Licata
+Momen Hesham
