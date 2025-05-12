@@ -20,7 +20,7 @@ Techgram is a community-driven platform where tech enthusiasts share the latest 
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/paolo-licata/socialmedia-dash.git
+   git clone https://momenheshamsaleh.github.io/Techgram-dash.git
    cd socialmedia-dash
    ```
 
