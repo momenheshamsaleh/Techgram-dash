@@ -6,6 +6,8 @@ import PostList from "./components/PostList";
 import Navbar from "./components/Navbar";
 import ProfilePage from "./components/ProfilePage";
 
+
+
 function App() {
   return (
     <Router>
