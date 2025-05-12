@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Techgram-dash/static/css/main.c6373f3a.css",
+    "main.js": "/Techgram-dash/static/js/main.f6189d74.js",
+    "index.html": "/Techgram-dash/index.html",
+    "main.c6373f3a.css.map": "/Techgram-dash/static/css/main.c6373f3a.css.map",
+    "main.f6189d74.js.map": "/Techgram-dash/static/js/main.f6189d74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6373f3a.css",
+    "static/js/main.f6189d74.js"
+  ]
+}
